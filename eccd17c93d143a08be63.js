@@ -1,0 +1,1 @@
+import"../css/style.css";document.addEventListener("DOMContentLoaded",(()=>{const e=new GameWidget(document.querySelector(".game-widget"),4);setInterval((()=>{e.moveGoblin()}),1e3)}));
